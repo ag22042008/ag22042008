@@ -111,7 +111,7 @@
 <div align="center">
 
 [![Unified AI Student Assistant](https://github-readme-stats.vercel.app/api/pin/?username=ag22042008&repo=AI-SudentAssistant&theme=tokyonight&hide_border=true)](https://github.com/ag22042008/AI-SudentAssistant)
-[![Multi-Agent Research Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=ag22042008&repo=multi-agent-research-pipeline&theme=tokyonight&hide_border=true)](https://github.com/ag22042008/multi-agent-research-pipeline)
+[![Multi-Agent Research Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=ag22042008&repo=multi-agent-research-pipeline&theme=tokyonight&hide_border=true)](https://github.com/ag22042008/multi-agent-resarch-pipeline)
 
 </div>
 
